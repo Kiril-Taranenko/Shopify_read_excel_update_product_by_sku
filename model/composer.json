@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "7.0",
+        "pear/http_request2": "^2.4",
+        "phpoffice/phpspreadsheet": "^1.18",
+        "webonyx/graphql-php": "^14.9"
+    }
+}
